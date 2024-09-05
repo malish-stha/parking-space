@@ -1,8 +1,8 @@
 import { LocationInfo } from './types'
 
 export const initialViewState = {
-  latitude: 40.7128,
-  longitude: -74.006,
+  latitude: 27.7172,
+  longitude: 85.324,
   zoom: 11.5,
 }
 
